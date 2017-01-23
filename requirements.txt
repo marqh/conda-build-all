@@ -2,4 +2,4 @@ conda >=4
 conda-build >=1.21.7
 anaconda-client
 mock
-requests <=2.11
+requests ==2.11.*
